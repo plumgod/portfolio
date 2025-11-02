@@ -65,3 +65,4 @@ npm start
 - Add your photography to `public/` folder
 - Update contact info in About page
 - Add more papers/albums as needed
+# Updated
