@@ -1,0 +1,125 @@
+{
+  "/photography/photography/1.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/10.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/11.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/12.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/13.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/14.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/15.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/16.jpeg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/photography/17.jpeg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/photography/18.jpeg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/photography/19.jpeg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/photography/2.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/20.jpeg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/photography/21.jpeg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/photography/3.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/4.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/5.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/5a.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/5b.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/5c.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/5d.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/6a.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/6b.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/6c.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/6d.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/7.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/7.jpg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/23.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/22.jpeg": {
+    "caption": "35mm"
+  },
+  "/photography/photography/8.jpg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/photography/9.jpeg": {
+    "caption": "35mm Double Exposure"
+  },
+  "/photography/digital-art/Dustlight.jpg": {
+    "caption": "VQGAN+CLIP"
+  },
+  "/photography/digital-art/artifact (1).jpg": {
+    "caption": "VQGAN+CLIP"
+  },
+  "/photography/digital-art/artifact5.jpg": {
+    "caption": "VQGAN+CLIP"
+  },
+  "/photography/digital-art/artifact (15).jpeg": {
+    "caption": "StyleGAN2-ADA"
+  },
+  "/photography/digital-art/artifact.jpg": {
+    "caption": "VQGAN+CLIP"
+  },
+  "/photography/digital-art/artifact2.jpg": {
+    "caption": "VQGAN+CLIP"
+  },
+  "/photography/digital-art/intlands.jpg": {
+    "caption": "StyleGAN2-ADA"
+  },
+  "/photography/digital-art/inyourmind.jpg": {
+    "caption": "VQGAN+CLIP"
+  },
+  "/photography/digital-art/shadowdancers.jpg": {
+    "caption": "StyleGAN2-ADA"
+  },
+  "/photography/digital-art/smallhours.jpg": {
+    "caption": "VQGAN+CLIP"
+  }
+}
