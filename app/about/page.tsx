@@ -40,7 +40,7 @@ export default function About() {
             <div className="pt-8 border-t border-white/10">
               <h2 className="text-2xl font-light mb-4">Contact</h2>
               <div className="space-y-2 text-base opacity-70">
-                <p>Email: austin [at] rockman [dot] com</p>
+                <p>Email: plumgod [at] austinrockman [dot] com</p>
                 <p>
                   GitHub: <a 
                     href="https://github.com/gloame-ai" 
