@@ -30,7 +30,7 @@ export default function About() {
             </p>
             
             <p>
-              As a composer and multi-instrumentalist, Austin creates immersive experiential music that aims to inhabit a meaningful overlap between noise, dissonance, and musical pleasantry. His work has been described as residing at the border of ambient and experimental music, branching outwards into deeper, more complex emotional states. As a sound artist, he utilizes custom algorithms for complex synthesis, multi-instrumental techniques, and procedural conditioning.
+              As a composer and multi-instrumentalist, Austin creates immersive experiential music that aims to inhabit a meaningful overlap between noise, dissonance, and musical pleasantry. His work has been described as residing at the border of ambient and experimental music, branching outwards into deeper, more complex emotional states. As a sound artist, he utilizes custom DSP algorithms for complex synthesis and procedural conditioning.
             </p>
 
 	    <p>
